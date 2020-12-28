@@ -1,0 +1,9 @@
+﻿/* TEAM */
+  Owner:    Andy Jacko
+  Twitter:  @4ndyjacko
+  From:     Manchester, UK
+
+/* SITE */
+  Language: English
+  Doctype:  HTML5, CSS3, Bootstrap, jQuery, PHP
+  IDE:      Dreamweaver, Photoshop, SublimeText

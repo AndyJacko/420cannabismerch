@@ -1,0 +1,16 @@
+
+
+@mixin google-font($font) {
+  $font: unquote($font);
+  @import url(https://fonts.googleapis.com/css?family=#{$font})
+}
+
+@mixin rounded($radius: 6px) {
+  border-radius: $radius;
+}
+
+@mixin box($radius: 6px, $border: 1px solid #000) {
+  @include rounded($radius);
+  border: $border;
+}
+

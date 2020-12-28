@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /backups/
+Disallow: /cp/
+Disallow: /scripts/
+Disallow: /products/

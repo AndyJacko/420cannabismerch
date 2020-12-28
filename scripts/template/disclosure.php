@@ -1,0 +1,2 @@
+
+<p class="affiliate-disclosure"><strong data-toggle="tooltip-aff" title="<br>To help with running costs and to continue bringing you the best cannabis related gear<br><strong>420 Cannabis Merch</strong><br>makes a small commission from affiliate products on this website.<br><br>You can learn more about how this works on the About page.<br><br>">Affiliate Disclosure {Hover}</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
